@@ -31,4 +31,8 @@
 * User should be redirected to the Dashboard.  
 * Dashboard should be displayed without any login error message.
 
-**Status**: Pass 
+**Status**: Pass. 
+
+**Test Evidence**
+
+![TC_LOGIN_001 Execution Evidence](https://github.com/saba4firdous-ui/OrangeHRM-/blob/main/Screenshot%20punch%20in%20&%20out.png?raw=true)
