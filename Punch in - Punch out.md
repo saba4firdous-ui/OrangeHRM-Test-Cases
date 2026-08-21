@@ -49,4 +49,4 @@ is 06:00 PM, the displayed duration should be 9 hours.
 
 **Test Evidence**
 
-![TC-Punch_01 Execution Evidence](../https://github.com/saba4firdous-ui/OrangeHRM-/blob/main/Screenshot%20punch%20in%20%26%20out.png)
+![TC-Punch_01 Execution Evidence](https://github.com/saba4firdous-ui/OrangeHRM-/blob/main/Screenshot%20punch%20in%20&%20out.png?raw=true)
