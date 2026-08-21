@@ -31,6 +31,8 @@
 * User should be redirected to the Dashboard.  
 * Dashboard should be displayed without any login error message.
 
+**Actual Result: User successfully logged in and reached the Dashboard. 
+
 **Status**: Pass. 
 
 **Test Evidence**
