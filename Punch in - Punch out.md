@@ -1,0 +1,48 @@
+**Test Case Id**- TC-Punch_01
+
+**Test case title**:  
+
+Verify that the system calculates the employee’s total work duration correctly based on the punch-in and punch-out times.
+
+**Module**: Punch in - Punch out
+
+**Priority**: High
+
+**Preconditions**:
+
+-Employee account exists.  
+-Employee has valid login credentials.  
+-Employee is logged into the application.  
+-Employee has access to the Time/Attendance functionality.  
+-Employee has not already punched in.  
+
+
+**Test Data**:
+
+Employee ID: 78900  
+Punch In: 09:00 AM  
+Punch Out: 06:00 PM  
+Expected Duration: 9 hours  
+
+
+**Test Steps**:
+
+-Log in using valid employee credentials.  
+-Navigate to Time → Attendance.  
+-Click Punch In.  
+-Verify that the punch-in time is recorded.  
+-Wait/work for the required test interval.  
+-Click Punch Out.  
+-Navigate to the attendance record.  
+-Check the recorded punch-in and punch-out times.  
+-Verify the displayed work duration.  
+
+
+
+**Expected Result**:
+
+The system should record the correct punch-in and punch-out times and calculate the employee’s total work   
+duration correctly based on those times. For example, if the punch-in time is 09:00 AM and punch-out time   
+is 06:00 PM, the displayed duration should be 9 hours.  
+
+**Status**:  Pass
