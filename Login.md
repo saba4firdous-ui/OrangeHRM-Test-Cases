@@ -35,4 +35,4 @@
 
 **Test Evidence**
 
-![TC_LOGIN_001 Execution Evidence](https://github.com/saba4firdous-ui/OrangeHRM-/blob/main/Screenshot%20punch%20in%20&%20out.png?raw=true)
+![TC_LOGIN_001 Execution Evidence](https://github.com/saba4firdous-ui/OrangeHRM-Test-Cases/blob/main/Screenshot%20of%20Login%20page.png?raw=true)
