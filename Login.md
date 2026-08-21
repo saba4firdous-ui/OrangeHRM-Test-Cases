@@ -1,23 +1,23 @@
 ## Test Case ID: TC_LOGIN_001
 
-##Test Case Title: Verify login with valid username and valid password
+**Test Case Title**: Verify login with valid username and valid password
 
-##Module: Login
+**Module**: Login
 
-##Priority: High
+**Priority**: High
 
-##Preconditions:
+**Preconditions**:
 
 -OrangeHRM demo application is accessible.  
 -Valid OrangeHRM demo credentials are available.  
 -User account is active.  
 
-##Test Data:
+**Test Data**:
 
-* Username: Admin  
-* Password: admin123  
+-Username: Admin  
+-Password: admin123  
 
-##Test Steps:
+**Test Steps**:
 
 1. Open the OrangeHRM demo login page.  
 2. Verify that the Login page is displayed.  
@@ -25,10 +25,10 @@
 4. Enter admin123 in the Password field.  
 5. Click the Login button.  
 
-##Expected Result:
+**Expected Result**:
 
 * User should be successfully authenticated.  
 * User should be redirected to the Dashboard.  
 * Dashboard should be displayed without any login error message.
 
-##Status: Pass 
+**Status**: Pass 
