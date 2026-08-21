@@ -20,8 +20,8 @@ Verify that the system calculates the employee’s total work duration correctly
 **Test Data**:
 
 Employee ID: 78900  
-Punch In: 11:00 PM 
-Punch Out: 05:00 AM  
+Punch In: 11:00 PM (2026-20-08)
+Punch Out: 05:00 AM (2026-21-08) 
 Expected Duration: 6 hours  
 
 
