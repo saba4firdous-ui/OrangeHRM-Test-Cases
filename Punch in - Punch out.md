@@ -45,4 +45,8 @@ The system should record the correct punch-in and punch-out times and calculate 
 duration correctly based on those times. For example, if the punch-in time is 09:00 AM and punch-out time   
 is 06:00 PM, the displayed duration should be 9 hours.  
 
-**Status**:  Pass
+**Status**:  Pass  
+
+**Test Evidence**
+
+![TC-Punch_01 Execution Evidence](../https://github.com/saba4firdous-ui/OrangeHRM-/blob/main/Screenshot%20punch%20in%20%26%20out.png)
