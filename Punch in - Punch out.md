@@ -20,9 +20,9 @@ Verify that the system calculates the employee’s total work duration correctly
 **Test Data**:
 
 Employee ID: 78900  
-Punch In: 09:00 AM  
-Punch Out: 06:00 PM  
-Expected Duration: 9 hours  
+Punch In: 11:00 PM 
+Punch Out: 05:00 AM  
+Expected Duration: 6 hours  
 
 
 **Test Steps**:
@@ -42,8 +42,14 @@ Expected Duration: 9 hours
 **Expected Result**:
 
 The system should record the correct punch-in and punch-out times and calculate the employee’s total work   
-duration correctly based on those times. For example, if the punch-in time is 09:00 AM and punch-out time   
-is 06:00 PM, the displayed duration should be 9 hours.  
+duration correctly based on those times. For example, the punch-in time is 11:00 PM ( and punch-out time   
+is 05:00 PM, the displayed duration should be 6 hours.  
+
+**Expected Result**:
+
+The system recorded the correct punch-in and punch-out times and calculate the employee’s total work   
+duration correctly based on those times. The punch-in time is 11:00 PM and punch-out time   
+is 05:00 PM, the displayed duration should be 6 hours.  
 
 **Status**:  Pass  
 
